@@ -1,4 +1,4 @@
-# onboarding_screen
+# onboarding_screen_flutter
 
 A new Flutter project.
 
